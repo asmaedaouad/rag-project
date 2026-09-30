@@ -1,4 +1,4 @@
-# Mini-RAG
+# RAG
 
 This is a minimal implementation of a Retrieval-Augmented Generation (RAG) system for question answering over documents.
 
