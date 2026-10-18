@@ -1,2 +1,1 @@
-Ceci est un fichier de test pour valider l'upload dans mini-rag-app.
-Il respecte le type autorisé text/plain et fait moins de 10 Mo.
+
